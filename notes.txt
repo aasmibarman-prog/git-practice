@@ -1,2 +1,3 @@
 1. Installed Git 2. Learned git init
 3. Configured user identity
+4. Learned git add and commit
