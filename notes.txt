@@ -1,0 +1,2 @@
+1. Installed Git 2. Learned git init
+3. Configured user identity
